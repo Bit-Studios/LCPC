@@ -18,6 +18,9 @@
 			<HintPath>..\external_dlls\Assembly-CSharp-firstpass.dll</HintPath>
 		</Reference>
 		<Reference Include="Microsoft.CSharp" />
+		<Reference Include="ShadowUtilityLIB.LC">
+		  <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\ShadowLib\ShadowUtilityLIB.LC.dll</HintPath>
+		</Reference>
 		<PackageReference Include="BepInEx.Analyzers" Version="1.*" />
 		<PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.1">
 			<PrivateAssets>all</PrivateAssets>
